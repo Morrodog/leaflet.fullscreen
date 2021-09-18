@@ -1,3 +1,16 @@
+Fork Notes
+===========
+This has been forked to export a function that mutates the given `L` argument to add the fullscreen functionality.
+Used like so:
+```
+import initializeLeafletFullscreen from 'leaflet.fullscreen'
+
+// `L` defined elsewhere
+initializeLeafletFullscreen(L);
+
+// Now it should be possible to use it as described in the original documentation below.
+```
+
 Leaflet.Control.FullScreen
 ============
 
