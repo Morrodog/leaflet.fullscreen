@@ -1,5 +1,3 @@
-console.log("test!");
-
 /*!
 * screenfull
 * v5.1.0 - 2020-12-24
